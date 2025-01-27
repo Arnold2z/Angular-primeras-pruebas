@@ -11,15 +11,15 @@ export class DbzService {
 
   public characters: Character[] = [{
     id: uuid(),
-    name: 'Krillin',
+    name: 'Maria',
     power: 1000
   },{
     id: uuid(),
-    name: 'Goku',
+    name: 'Olga',
     power: 9500
   },{
     id: uuid(),
-    name: 'Vegeta',
+    name: 'Ricardo',
     power: 7500
   }];
 
